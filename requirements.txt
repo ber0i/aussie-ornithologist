@@ -1,3 +1,0 @@
-fastai
-duckduckgo_search
-gradio
