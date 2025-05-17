@@ -2,7 +2,7 @@
 
 Small app that can tell apart my three favorite Australian birds. It is currently deployed on Hugging Face Spaces, see [here](https://huggingface.co/spaces/ber0i/ornithologist).
 
-<img src="cockatoo.jpg" height="100"/> <img src="magpie.jpg" height="100"/> <img src="crimson_rosella.jpg" height="100"/>
+<img src="images/cockatoo.jpg" height="100"/> <img src="images/magpie.jpg" height="100"/> <img src="images/crimson_rosella.jpg" height="100"/>
 
 #### Image Credits
 
