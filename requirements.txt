@@ -1,0 +1,5 @@
+fastai==2.7.12
+fastcore==1.5.29
+numpy<2.0
+duckduckgo_search
+gradio
